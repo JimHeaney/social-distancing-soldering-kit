@@ -8,7 +8,7 @@ Now you don't have to, and you can learn more about electronics at the same time
 When you no longer need the rangefinder, you can use the 328P microcontroller like an Arduino. 
 
 ## Current Release
-Version 1.1
+Version 1.5
 
 ## Current State
 The Social Distancing Soldering Kit is active, but there are no planned changes. 
