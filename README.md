@@ -17,6 +17,8 @@ The Social Distancing Soldering Kit is active, but there are no planned changes.
 [Microchip Makes](https://www.instagram.com/p/CNGjW58nmI0/)
 
 ## Support Me
+You can purchase the Social Distancing Soldering Kit on [Tindie](https://www.tindie.com/products/jimheaney/social-distancing-soldering-kit/).
+
 You can buy me a coffee [here](https://www.buymeacoffee.com/jimheaney)!
 
 ## License
