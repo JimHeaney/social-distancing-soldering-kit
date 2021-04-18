@@ -7,6 +7,9 @@ Now you don't have to, and you can learn more about electronics at the same time
 
 When you no longer need the rangefinder, you can use the 328P microcontroller like an Arduino. 
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/social-distancing-soldering-kit.html).
+
 ## Current Release
 Version 1.5
 
